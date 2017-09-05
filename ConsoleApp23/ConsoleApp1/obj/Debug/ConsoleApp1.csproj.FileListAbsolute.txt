@@ -1,0 +1,5 @@
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

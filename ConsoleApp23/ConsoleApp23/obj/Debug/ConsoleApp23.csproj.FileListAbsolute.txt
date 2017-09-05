@@ -1,0 +1,6 @@
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe.config
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.pdb
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csprojResolveAssemblyReference.cache
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.exe
+C:\Users\закарьянова\Documents\Новая папка\fourExample\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.pdb
