@@ -12,11 +12,13 @@ namespace ConsoleApp1
         {
             try
             {
+                int size = 10;
+                int startRange = 1, endRange = 10;
                 Random rnd = new Random();
-                int[] arr = new int[10];
-                for (int i = 0; i < 11 ; i++)
+                int[] arr = new int[size];
+                for (int i = 0; i <= size ; i++)
                 {
-                    arr[i] = rnd.Next(1, 10);
+                    arr[i] = rnd.Next(startRange, endRange);
                     Console.WriteLine(arr[i]);
                 }
             }
